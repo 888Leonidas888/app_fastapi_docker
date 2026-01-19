@@ -1,5 +1,5 @@
 # Imagen base oficial de Python 3.12.3
-LABEL org.opencontainers.image.source https://github.com/888Leonidas888/app_fastapi_docker
+LABEL org.opencontainers.image.source=https://github.com/888Leonidas888/app_fastapi_docker
 
 FROM python:3.12.3-slim
 
